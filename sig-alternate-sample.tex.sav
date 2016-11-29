@@ -181,7 +181,7 @@ email: {\texttt{jsmith@affiliation.org}}) and Julius P.~Kumquat
 
 \maketitle
 \begin{abstract}
-This paper presents an acoustic-based interactive system giving different responses according to the motion states of smartphones.    
+This paper presents an acoustic-based interactive system giving different responses according to the motion state.  
 \end{abstract}
 
 
